@@ -11,11 +11,7 @@
 
  ---
  
-<p align="center">
- 
-👨‍💻 All of my projects are available at [click](https://github.com/tanersb?tab=repositories)
-
- </p>
+<p align="center">👨‍💻 All of my projects are available at [click](https://github.com/tanersb?tab=repositories)</p>
  
  ---
 
