@@ -47,7 +47,7 @@
   <a href="https://discord.com/invite/">
     <img src="https://img.shields.io/discord/398209911747641344?logo=discord&style=for-the-badge&color=blue" />
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+  <a href="http://youtube.com/">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
