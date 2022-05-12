@@ -1,5 +1,4 @@
-<p align="top"> 
- <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+tanersb;I'm+tanersb)](https://git.io/typing-svg) 
 
