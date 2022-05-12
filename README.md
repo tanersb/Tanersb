@@ -3,8 +3,6 @@
 
 
 
-- 📫 How to reach me on dc **tanersb#5145**
-
 
 <p align="top"> 
  <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
@@ -25,6 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/tanersb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basakgm" height="30" width="40" /></a>
 </p>
+reach me on dc **tanersb#5145**
 
  ---
 <h3 align="left">Languages and Tools:</h3>
