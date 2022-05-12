@@ -27,3 +27,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basakgun&show_icons=true&locale=en&layout=compact" alt="basakgun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basakgun&" alt="basakgun" /></p>
+
+---
+
+
+<p align="center">
+  <a href="http://twitter.com/tanersb">
+    <img src="https://img.shields.io/twitter/follow/tanersb?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/">
+    <img src="https://img.shields.io/discord/398209911747641344?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  </a>
+</p>
+
