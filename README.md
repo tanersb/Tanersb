@@ -32,11 +32,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 ---
-
+<p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanersb&show_icons=true&locale=en&layout=compact" alt="tanersb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&" alt="tanersb" /></p>
-
+</p>
 ---
 
 
