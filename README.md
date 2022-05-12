@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋,  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+tanersb;I'm+tanersb)](https://git.io/typing-svg) </h1>
+<h3 align="center">Developer</h3>
+
+
+
+- 📫 How to reach me on dc **tanersb#5145**
+
+
 <p align="top"> 
  <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
  
