@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+tanersb;I'm+tanersb)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%F0%9F%91%8B%2C+I'm+tanersb)](https://git.io/typing-svg)
 <h3 align="center">Developer</h3>
 
 
