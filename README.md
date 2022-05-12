@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Krish+Gupta;A+Full+Stack+Open+Source+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
  
