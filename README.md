@@ -11,8 +11,11 @@
 
  ---
  
-- 👨‍💻 All of my projects are available at [click](https://github.com/tanersb?tab=repositories)
+<p align="center">
+ 
+👨‍💻 All of my projects are available at [click](https://github.com/tanersb?tab=repositories)
 
+ </p>
  
  ---
 
@@ -25,8 +28,9 @@
 </p>
 
  ---
+ 
+ <p align="center">
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
 <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  </a> <a align="center"  href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
