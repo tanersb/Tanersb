@@ -4,13 +4,12 @@
  
  ---
  
-- 👨‍💻 All of my projects are available at [https://github.com/basakgun?tab=repositories](https://github.com/basakgun?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/tanersb?tab=repositories](https://github.com/tanersb)
 
-- Here is my photoblog account: [https://vsco.co/basakgn/gallery](https://vsco.co/basakgn/gallery)
  
  ---
 
-<img align="right" alt= "Coding" width="400" src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b761129c15786b32a798dfee7b5b76e9f0aad4f0dbf98&rid=giphy.gif&ct=g">
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
