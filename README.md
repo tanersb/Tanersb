@@ -4,14 +4,14 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
 
 
-<details>
-  <summary align="center">GitHub Stats</summary>
+
+  
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
-</details>
+
 
 
 
