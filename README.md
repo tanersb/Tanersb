@@ -3,12 +3,16 @@
 
 
 
+<details>
+  <summary align="center">GitHub Stats</summary>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
- <p align="center"> 
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=tanersb&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="tanersb" /></p>
 
- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanersb&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="tanersb" /></a></p>
+</details>
+
+
+
 
 
 
@@ -19,15 +23,6 @@
  <p align="center">👨‍💻 All of my projects are available at https://github.com/tanersb?tab=repositories </p>
  <p align="center">🔭 I’m currently working with private project.</p>
  <p align="center">🌱 I’m currently learning interesting things.</p>
-
-
-
-
-
-
- 
-
-
 
 
 
