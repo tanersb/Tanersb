@@ -44,7 +44,7 @@
 
 <p align="center">
 
-  <a href="https://discord.com/invite/">
+  <a href="https://discord.com/users/207491934330028032">
     <img src="https://img.shields.io/discord/398209911747641344?logo=discord&style=for-the-badge&color=blue" />
   </a>
 
@@ -60,4 +60,5 @@
 	<a href="https://twitter.com/tanersb" target="_blank" title="Twitter"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tanersb" height="30" width="30" /></a>
 		<a href="mailto:mymail@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mymail@gmail.com" height="30" width="30" /></a>
 		<a href="https://www.linkedin.com/in/myprofile/" target="_blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/myprofile/" height="30" width="30" /></a>
+	<a href="https://discord.com/users/207491934330028032" target="_blank" title="Discord"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/207491934330028032" height="30" width="30" /></a>
 </p>
