@@ -27,23 +27,13 @@
 
  
 
- ---
- 
-<p align="center">
-<h3 align="center">Languages and Tools:</h3>
-</p>
-
-<p align="center"><a align="center" href="https://www.python.org" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</a> <a align="center"  href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a align="center" href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
 
 
- ---
+
+
  
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary align="center">GitHub Stats</summary>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
@@ -54,7 +44,7 @@
  
 
 
- ---
+
 
 
 <p align="center">
@@ -70,7 +60,7 @@
 </p>
 
 
- ---
+
  
  
 <p align="center">
