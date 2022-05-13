@@ -6,6 +6,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /> </p>
+ ![](https://visitor-badge.glitch.me/badge?page_id=tanersb.tanersb)
  
 
 
