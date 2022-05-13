@@ -1,14 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+tanersb)](https://github.com/tanersb)
 <h3 align="center">Developer</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
 
 
 <details>
   <summary align="center">GitHub Stats</summary>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
-  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=tanersb&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="tanersb" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 </details>
 
 
@@ -27,17 +29,15 @@
 
 
  
+
+ 
+ 
 <details>
   <summary align="center">GitHub Stats</summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=tanersb&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="tanersb" /></p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 </details>
- 
- 
-
 
 
 
