@@ -53,18 +53,14 @@
  
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanersb&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pinhanderler" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true" alt="tanersb" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanersb&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&hide_border=false" alt="tanersb" /></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanersb&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 </details>
  
  
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhanderler&layout=compact&hide_border=true&theme=tokyonight" alt="github stats"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=pinhanderler&show_icons=true&count_private=truet&hide_border=true&theme=tokyonight" alt="github langs"/>
-</p>
 
 
  ---
