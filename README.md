@@ -52,7 +52,7 @@
 
 
 https://sptfy.com/tanersb
- 
+https://stats.fm/tanersb
  
 <p align="center">
 	<a href="https://www.instagram.com/tanersb" target="_blank" title="Instagram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanersb" height="30" width="30" /></a>
