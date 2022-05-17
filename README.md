@@ -51,9 +51,6 @@
 </p>
 
 
-https://sptfy.com/tanersb
-
-https://stats.fm/tanersb
 
  
 <p align="center">
@@ -64,7 +61,7 @@ https://stats.fm/tanersb
 	<a href="mailto:mymail@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mymail@gmail.com" height="30" width="30" /></a>
 	<a href="https://www.linkedin.com/in/myprofile/" target="_blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/myprofile/" height="30" width="30" /></a>
 	<a href="https://sptfy.com/tanersb" target="_blank" title="Spotify"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="https://sptfy.com/tanersb" height="30" width="30" /></a>
-	<a href="https://stats.fm/tanersb" target="_blank" title="statsfm"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sellfy.svg" alt="https://stats.fm/tanersb" height="30" width="30" /></a>
+	<a href="https://stats.fm/tanersb" target="_blank" title="Stats.fm"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sellfy.svg" alt="https://stats.fm/tanersb" height="30" width="30" /></a>
 
 
 </p>
