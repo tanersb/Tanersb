@@ -32,7 +32,6 @@
  
 
  
- 
 <details>
   <summary align="center">GitHub Stats</summary>
 
