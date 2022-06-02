@@ -50,7 +50,7 @@
 <p align="center">
 
   <a href="https://discord.com/users/207491934330028032">
-    <img src="https://img.shields.io/discord/398209911747641344?logo=discord&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/discord/643739727849062400?logo=discord&style=for-the-badge&color=blue" />
   </a>
 
 </p>
