@@ -21,7 +21,6 @@
 
  
 
-
  
  <p align="center">👨‍💻 All of my projects are available at https://github.com/tanersb?tab=repositories </p>
  <p align="center">🔭 I’m currently working with private project.</p>
