@@ -4,7 +4,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
 
 
-
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
