@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanersb&label=Profile%20views&color=0e75b6&style=flat" alt="tanersb" /></p>
 
-
+<a href="https://discord.com/users/207491934330028032"><img src="https://lanyard-profile-readme.vercel.app/api/207491934330028032?borderRadius=25px&bg=#282a36" /></a>
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersb&layout=compact&hide_border=true&theme=tokyonight" alt="tanersb" /></p>
 
